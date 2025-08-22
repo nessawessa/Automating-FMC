@@ -27,7 +27,7 @@ Repository holding separate scripts and FM&amp;C mod template, aiming for script
     
     cd automating-fmc
 
-## Usage in CLI
+## Current usage in CLI
 Create Fail modes 
 
     python CreateFailModes.py
