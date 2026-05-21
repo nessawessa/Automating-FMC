@@ -47,20 +47,20 @@ Revise Causes
 
 update excel path in two places:
 
-wb_obj = openpyxl.load_workbook(r"C:\Users\aq34o\Documents\Automating FM&C\python scripts\FM&C Modification Template.xlsx")
+wb_obj = openpyxl.load_workbook(r"C:\Users\xxxxx\Documents\Automating FM&C\python scripts\FM&C Modification Template.xlsx")
 
-wb_obj.save(r"C:\Users\aq34o\Documents\Automating FM&C\python scripts\FM&C Modification Template.xlsx")
+wb_obj.save(r"C:\Users\xxxxx\Documents\Automating FM&C\python scripts\FM&C Modification Template.xlsx")
 
 ## for ReviseCauses.py
 update vaiable:
 
-EXCEL_PATH = r"C:\Users\aq34o\Documents\Automating FM&C\python scripts\FM&C Modification Template.xlsx"
+EXCEL_PATH = r"C:\Users\xxxxx\Documents\Automating FM&C\python scripts\FM&C Modification Template.xlsx"
 
 ## for CreateFailModes.py
 update excel path in two places:
 
-wb_obj = openpyxl.load_workbook(r"C:\Users\aq34o\Documents\Automating FM&C\python scripts\FM&C Modification Template.xlsx")
-wb_obj.save(r"C:\Users\aq34o\Documents\Automating FM&C\python scripts\FM&C Modification Template.xlsx")
+wb_obj = openpyxl.load_workbook(r"C:\Users\xxxxx\Documents\Automating FM&C\python scripts\FM&C Modification Template.xlsx")
+wb_obj.save(r"C:\Users\xxxxx\Documents\Automating FM&C\python scripts\FM&C Modification Template.xlsx")
 
 ## Known Limitations
 
